@@ -1,1 +1,1 @@
-根据数据库表在 generatorConfig.xml中做相应配置即可自动生成pojo,mapper,mapper.xml
+根据数据库表在 generatorConfig.xml中做相应配置即可自动生成pojo,mapper,mapper.xml,在右侧maven-plugins，点击mabatis-generator生成
