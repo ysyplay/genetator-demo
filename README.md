@@ -1,0 +1,1 @@
+根据数据库表在 generatorConfig.xml中做相应配置即可自动生成pojo,mapper,mapper.xml
